@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.image{
+    
+    object-position: center;
+    border-radius: 0.5rem;
+}
