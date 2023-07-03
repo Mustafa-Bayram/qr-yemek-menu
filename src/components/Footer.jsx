@@ -4,7 +4,9 @@ const Footer = () => {
       <footer className="footer flex flex-col gap-5 bg-orange-700 text-white p-10 bg-primary text-primary-content ">
         <div className="flex flex-col items-center justify-center ">
           <img
-            src="https://instagram.fadb3-2.fna.fbcdn.net/v/t51.2885…hXAsNJr-Pd4b79kXUDoYew&oe=64A788E8&_nc_sid=ee9879"
+            src="
+            https://instagram.fadb3-2.fna.fbcdn.net/v/t51.2885-19/314720119_1500660263748603_7080808665535422741_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fadb3-2.fna.fbcdn.net&_nc_cat=103&_nc_ohc=cKv1M8ON6HoAX-lCuhD&edm=ACWDqb8BAAAA&ccb=7-5&oh=00_AfD5b1ujbBK3CLAbuf1g9VsJhXAsNJr-Pd4b79kXUDoYew&oe=64A788E8&_nc_sid=ee9879
+            "
             className=" w-10 h-10 rounded-full"
             alt=""
           />
