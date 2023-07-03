@@ -31,7 +31,7 @@ export const Navbar = () => {
 
       <button className="bg-black sm:px-4 text-white flex ml-3 md:flex items-center sm:py-3 py-2 px-[3px] rounded-full">
         <BsFillTelephoneFill className=" mr-2" size={17} />
-        <a className="" href="tel:+905518734345">
+        <a className="text-sm" href="tel:+905518734345">
           İletişim
         </a>
       </button>
