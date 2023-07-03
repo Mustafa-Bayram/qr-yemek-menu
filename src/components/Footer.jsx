@@ -4,7 +4,7 @@ const Footer = () => {
       <footer className="footer flex flex-col gap-5 bg-orange-700 text-white p-10 bg-primary text-primary-content ">
         <div className="flex flex-col items-center justify-center ">
           <img
-            src="/src/assets/img/logo.jpg"
+            src="https://instagram.fadb3-2.fna.fbcdn.net/v/t51.2885…hXAsNJr-Pd4b79kXUDoYew&oe=64A788E8&_nc_sid=ee9879"
             className=" w-10 h-10 rounded-full"
             alt=""
           />
