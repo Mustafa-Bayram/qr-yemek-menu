@@ -22,7 +22,7 @@ const SearchBar = ({ placeholder, data }) => {
   };
   return (
     <div className="bg-gray-200  sm:w-[400px] lg:w-[500px] ">
-      <div className="searchInputs flex relative ">
+      <div className="searchInputs flex relative rounded-md">
         <input
           className="bg-transparent p-2 px-2  focus:outline-none w-full relative "
           type="text"
